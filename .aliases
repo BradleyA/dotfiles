@@ -152,3 +152,9 @@ alias pubkey="more ~/.ssh/id_ed25519.pub | xclip -selection clipboard | echo '=>
 
 # Pipe my private key to my clipboard.
 alias prikey="more ~/.ssh/id_ed25519 | xclip -selection clipboard | echo '=> Private key copied to pasteboard.'"
+
+# Blender
+alias blender='/Applications/Blender.app/Contents/MacOS/Blender'
+
+# CAD exchanger
+alias cad_exchanger='/Applications/CAD\ Exchanger.app/Contents/MacOS/ExchangerConv'
